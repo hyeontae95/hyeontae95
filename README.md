@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello. I am HyunTae Choi who is interested in Back-end Developer from South Korea.
 <!--
 **hyeontae95/hyeontae95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
