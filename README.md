@@ -3,6 +3,8 @@ Hello. I am HyunTae Choi who is interested in Back-end Developer from South Kore
 ### Experience 🏢
 1. University - Halla University Department of Information and Communication Software
 2. Education Center - MRHI
+### Career
+1. Abacus Corp. - Web Back-end Developer (2021.07 ~ )
 <!--
 **hyeontae95/hyeontae95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
