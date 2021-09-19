@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hello. I am HyunTae Choi who is interested in Back-end Developer from South Korea.
+If you want to proceed with the Spring project with me, please send me an email.
 ### Experience 🏢
 1. University - Halla University Department of Information and Communication Software
 2. Education Center - MRHI
